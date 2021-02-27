@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RecSys 2020 Tutorial"
+title                    : "Tutorial on Conversational Recommendation"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
