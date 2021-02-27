@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+*The tutorial is delivered at RecSys 2020, WSDM 2021, IUI 2021.*
 <img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
 
 Abstract
