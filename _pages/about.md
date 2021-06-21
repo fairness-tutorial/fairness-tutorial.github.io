@@ -1,4 +1,4 @@
-<img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
+<img src='/images/Rio-1000x180.jpg'>
 
 ---
 permalink: /
