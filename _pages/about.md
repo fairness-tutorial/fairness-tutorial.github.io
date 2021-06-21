@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Tutorial on Conversational Recommendation Systems"
+title: "Tutorial on Fairness of Machine Learning in Recommender Systems"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
@@ -8,44 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-*The tutorial is delivered at RecSys 2020, WSDM 2021, IUI 2021.*
-<img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
-
+*The tutorial is delivered at SIGIR 2021.*
+<!-- <img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
+ -->
 Abstract
 ------
-Recent years have witnessed the emerging of conversational systems, including both physical devices and mobile-based applications. Both the research community and industry believe that conversational systems will have a major impact on human-computer interaction, and specifically, the RecSys community has begun to
-explore Conversational Recommendation Systems. Conversational recommendation aims at finding or recommending the most relevant information (e.g., web pages, answers, movies, products) for users based on textual- or spoken-dialogs, through which users can communicate with the system more efficiently using natural language conversations. Due to users’ constant need to look for information to support both work and daily life, conversational recommendation system will be one of the key techniques towards an intelligent web. The tutorial focuses on the foundations and algorithms for conversational recommendation, as well as their applications in real-world systems such as search engine, e-commerce and social networks. The tutorial aims at introducing and communicating conversational recommendation methods to the community, as well as gathering researchers and practitioners interested in this research direction for discussions, idea communications, and research promotions.
+Recently, there has been growing attention on fairness considerations in machine learning. As one of the most pervasive applications of machine learning, recommender systems are gaining increasing and critical impacts on human and society since a growing number of users use them for information seeking and decision making. Therefore, it is crucial to address the potential unfairness problems in recommendation, which may hurt users’ or providers’ satisfaction in recommender systems as well as the interests of the platforms. The tutorial focuses on the foundations and algorithms for fairness in recommendation. It also presents a brief introduction about fairness in basic machine learning tasks such as classification and ranking. The tutorial will introduce the taxonomies of current fairness definitions and evaluation metrics for fairness concerns.
+We will introduce previous works about fairness in recommendation and also put forward future fairness research directions. The tutorial aims at introducing and communicating fairness in recommendation methods to the community, as well as gathering researchers and practitioners interested in this research direction for discussions, idea communications, and research promotions.
 
 Outline
 ------
-* Introduction and Background
-  * Introduction to Conversational Recommendation
-  * A Brief History of Conversational Recommendation Research
-  * The New Boom in Conversational Recommendation Research
-  
-* Problem Formalization
-  * Basic Problem Formalization
-  * Paradigm 1: System is Active, User is Passive (SAUP)
-  * Paradigm 2: System is Active, User Engages (SAUE)
-  * Paradigm 3: System is Active, User is Active (SAUA)
-  * Challenges
-* Datasets and Evaluation
-  * Frequently Used Datasets
-  * Evaluation Protocol
-* Conversational Recommendation Methods
-  * Three Architectures of Conversational AI Systems
-  * Four Major Modules for Conversational Recommendation
-  * Natural Language Understanding/Generation
-  * Dialog State Managment
-  * Recommendation
-  * Explanation
-* Tool-kits and Real-world Systems
+* Introduction
+  * Social Impact of Recommender System and Fairness
+  * Motivation of Fairness in Recommender Systems
+  * Relationship with AI Ethics
+  * Beyond Ethics: a Utilitarian Perspective
+* Fairness in Machine Learning
+  * Fairness in Classification
+  * Fairness in Ranking
+* Fairness in Recommendation
+  * Introduction
+  * Taxonomy
+  * Dataset and Evaluation
+  * Challenge and Opportunity
 
 Material
 ------
 
 <!--img src='/images/image-alignment-1200x4002.jpg'><br/-->
-<img src='../images/first_page_v2.png'>
+<img src='../images/cover_page.png'>
 
 <!--iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
