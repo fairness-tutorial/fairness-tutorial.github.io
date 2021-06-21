@@ -11,6 +11,8 @@ redirect_from:
 *The tutorial is delivered at SIGIR 2021.*
 <!-- <img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
  -->
+
+
 Abstract
 ------
 Recently, there has been growing attention on fairness considerations in machine learning. As one of the most pervasive applications of machine learning, recommender systems are gaining increasing and critical impacts on human and society since a growing number of users use them for information seeking and decision making. Therefore, it is crucial to address the potential unfairness problems in recommendation, which may hurt users’ or providers’ satisfaction in recommender systems as well as the interests of the platforms. The tutorial focuses on the foundations and algorithms for fairness in recommendation. It also presents a brief introduction about fairness in basic machine learning tasks such as classification and ranking. The tutorial will introduce the taxonomies of current fairness definitions and evaluation metrics for fairness concerns.
