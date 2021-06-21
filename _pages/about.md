@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<img src='/images/Rio-1000x180.jpg'>
+<!-- <img src='/images/Rio-1000x180.jpg'> -->
+<img src='/images/teaser.jpeg'>
 *The tutorial is delivered at SIGIR 2021.*
 
 
