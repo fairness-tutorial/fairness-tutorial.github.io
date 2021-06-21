@@ -40,7 +40,8 @@ Material
 
 <!--iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
-[Video](https://www.youtube.com/watch?v=RdGnJSRA0aw)    [PDF](https://dl.acm.org/doi/abs/10.1145/3383313.3411548)   [Slides](https://drive.google.com/file/d/14Fvxi--sX-52ZOZLySityXnTdsfWHWRe/view?usp=sharing)
+[PDF]('../files/Tutorial_on_Fairness_in_Recommendation.pdf')   [Slides]('../files/Tutorial_on_Fairness_in_Recommendation_Slides.pdf')
+<!-- [Video](https://www.youtube.com/watch?v=RdGnJSRA0aw)  -->
 
 Presenters
 ------
