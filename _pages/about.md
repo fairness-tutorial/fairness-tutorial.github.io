@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <img src='/images/Rio-1000x180.jpg'> -->
+
 *The tutorial is delivered at SIGIR 2021.*
-<!-- <img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
- -->
+<img src='/images/Rio-1000x180.jpg'>
 
 
 Abstract
