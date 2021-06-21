@@ -40,7 +40,7 @@ Material
 
 <!--iframe width="1280" height="720" src="https://www.youtube.com/embed/ekGljvAXIKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
-[PDF](src='../files/Tutorial_on_Fairness_in_Recommendation.pdf')   [Slides]('../files/Tutorial_on_Fairness_in_Recommendation_Slides.pdf')
+[PDF](/files/Tutorial_on_Fairness_in_Recommendation.pdf)   [Slides](/files/Tutorial_on_Fairness_in_Recommendation_Slides.pdf)
 <!-- [Video](https://www.youtube.com/watch?v=RdGnJSRA0aw)  -->
 
 Presenters
