@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-*The tutorial is delivered at SIGIR 2021.*
 <img src='/images/Rio-1000x180.jpg'>
+*The tutorial is delivered at SIGIR 2021.*
 
 
 Abstract
