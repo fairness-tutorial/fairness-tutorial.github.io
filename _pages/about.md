@@ -1,3 +1,5 @@
+<img src='/Conversational-RecSys.github.io/images/Rio-1000x180.jpg'>
+
 ---
 permalink: /
 title: "Tutorial on Fairness of Machine Learning in Recommender Systems"
